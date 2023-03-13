@@ -28,3 +28,7 @@ pip install bs4
 git clone https://github.com/TOXIC-S4GOR/S4GOR_PAID
 
 
+cd S4GOR_PAID
+
+
+python PAID_S4GOR.py
